@@ -328,83 +328,291 @@ Facilitar la incorporación en la medida de lo posible. 可能不妨碍他人�
 
 ## Adelantamiento 超车
 
-**No se considera adelantamiento:**
+1. **No se considera adelantamiento:**
 
-Saturación, tráfico densa 交通堵塞
+Saturación, tráfico densa. 交通堵塞。
+Carril de aceleración, deceleración o bús. 加速道，减速道和公交车道。
+Los ciclistas, en grupo. 自行车组。
+Sobrepasar a un vehículo inmovilizado (rebasar). 越过一辆停着不动的车。
 
-Carril de aceleración, deceleración o bús 加速道，减速道和公交车道 
-
-Los ciclistas, en grupo 自行车组
-
-Sobrepasar a un vehículo inmovilizado (rebasar) 越过一辆停着不动的车 
-
-**Como norma general, adelantar por la izquierda 一般交规超车从左边超** 
+2. **Como norma general, adelantar por la izquierda 一般交规超车从左边超** 
 
 **3 种从右边超车的例外:**
 
-① Vehiculo delante cambio dirección por izquierdo/gira izquierdo,derecho espacio 行驶在前面的车要左转或停在左边，右边有足够的空间，不使用路肩
-② 在双向道中间有轨电车 tranvía 行驶
-③ Urbana, más de un carril, delimitado 市内，行驶方向有多于一条车道，有线条划分开 (在市内的高速必须从左边超车)
+① Vehiculo delante cambio dirección por izquierdo/gira izquierdo,derecho espacio. 行驶在前面的车要左转或停在左边，右边有足够的空间，不使用路肩。
+② 在双向道中间有轨电车 tranvía 行驶。
+③ Urbana, más de un carril, delimitado. 市内，行驶方向有多于一条车道，有线条划分开 (在市内的高速必须从左边超车)。
 
-**Va a adelantar 超车者的义务: O.S.M.**
+3. **Va a adelantar 超车者的义务: O.S.M.**
 
 ① sin peligro, con seguridad,velocidad adecuada
 ② detrás no iniciar a adelantar 后面的车没有在超车
 ③ encendido la luz ,tiene la preferencia,谁先开灯谁有优先
 ④ sino seguir adelantamiento , hay que regresar al carril derecho 如不继续超车，返回右车道
 
-**Ser adelantado 被超者的义务:**
+4. **Ser adelantado 被超者的义务:**
 
-facilitar, ceñirse (apartarse,acercarse, al derecho,sin invadir arcén 强制靠边给予方便(一般情况下不可以侵占路肩)。
+facilitar, ceñirse (apartarse,acercarse, al derecho,sin invadir arcén. 强制靠边给予方便(一般情况下不可以侵占路肩)。
 
 如被超车辆是大车有义务提醒超车者安全超车，做手势或灯光提醒。 mover brazo de atrás hacia delante, intermitentes derecho.
 
-**禁止超车:**
+### **禁止超车:**
 
-Curva y cambio de rasante, sin visibilidad, **excepto** más de un carril y delimitado, sin invadir sentido contrario 没有视线的弯道和上下坡,除了多于一条车 道用线划分好不侵占反方向。
+Curva y cambio de rasante, sin visibilidad, **excepto** más de un carril y delimitado, sin invadir sentido contrario. 没有视线的弯道和上下坡,除了多于一条车 道用线划分好不侵占反方向。
 
-Pasos de peatones y proximidades, **excepto** velocidad reducida 人行道和它附近，除了速度相当的慢有危险能停车。
+Pasos de peatones y proximidades, **excepto** velocidad reducida。 人行道和它附近，除了速度相当的慢有危险能停车。
 
-Pasos a nivel y proximidades, **excepto** vehiculo dos ruedas  铁路道口和它附近，除了超两轮车。
+Pasos a nivel y proximidades, **excepto** vehiculo dos ruedas.  铁路道口和它附近，除了超两轮车。
 
-Intersecciones con vía ciclista 在与自行车道路相交的路口，**没有例外**。
+Intersecciones con vía ciclista。 在与自行车道路相交的路口，**没有例外**。
 
-Interseccion o cruce y su proximidad 十字路口和它附近，例外1) 从右边超车的；2) 转盘；3) 超两轮车；4) 有优先并且有信号标志告知有优先。
+Interseccion o cruce y su proximidad 十字路口和它附近，**例外**1) 从右边超车的；2) 转盘；3) 超两轮车；4) 有优先并且有信号标志告知有优先。
 
-Túnel y pasos inferiores, **excepto** más de un carril para cada sentido 隧道地下 通道,除了多于一条车道不侵占反方向
+Túnel y pasos inferiores, **excepto** más de un carril para cada sentido. 隧道地下 通道,除了多于一条车道不侵占反方向
 
-**Cambio de dirección** **转弯**
+## Cambio de dirección 转弯
 
-Gira a la derecha ,ceñirse lo más borde derecho posible 右转,尽可能靠近右边 Gira a la izquierda:sentido único, borde izquierda 左转单向道路靠近左边缘
+Gira a la derecha ,ceñirse lo más borde derecho posible。 右转，尽可能靠近右边。
 
-doble sentido ， SEPARADOR/EJE ， sin invader el sentido contrario ,dejando libre izquierda centro de interseccion mano izquierda. 双 向 道 路靠近分开方向的纵线, 如果没有，靠近中轴线 EJE 不侵占十字路口, 把路口的中 心保留在我的左边
+Gira a la izquierda: sentido único, borde izquierda. 左转单向道路靠近左边缘。
 
-Prohibido gira izquierda, falta de visibilidad y linea continua 没有视线和实线时禁 止左转
+doble sentido, SEPARADOR/EJE, sin invader el sentido contrario, dejando libre izquierda centro de interseccion mano izquierda. 双向道路靠近分开方向的纵线，如果没有，靠近中轴线 EJE 不侵占十字路口，把路口的中心保留在我的左边。
 
-```
-行驶在反方向的车辆速度和距离不允许时，不能左转弯
-```
+Prohibido gira izquierda, falta de visibilidad y linea continua。 没有视线和实线时**禁止**左转
 
-tres carriles y dos sentido para gira a la izquierdad y adelanta，carril central.3 条车 道两个运行方向左转弯和超车使用中间车道 carril central 当反方向没有用时
+行驶在反方向的车辆速度和距离不允许时，**禁止**左转弯。
 
-\* fuera de poblado，coclomotoderecha，fuera de calzada 在郊外行驶在路肩上的 车要左转，行驶在右边，在路面外边.
+tres carriles y dos sentido para gira a la izquierdad y adelanta，carril central. 3条车道两个运行方向左转弯和超车使用中间车道 carril central 当反方向没有用时。
+
+\* fuera de poblado，ciclomotoderecha，fuera de calzada 在郊外，行驶在路肩上的车表示左转，行驶在右边，在路面外边.
+
+## Cambio de sentido 调头
+
+**必须执行:**
+
+（1）elegir un lugar adecuado 挑选一个合适的地方
+（2）da un solo giro 一个转弯，禁止使用倒车
+（3）sin impedir otros usuarios 不能阻碍其他用户通行
+（4）salir de la calzada por mi lado derecho, espera 如阻碍必须从右边出去并且等着从那里执行操作
+
+**设置道路上的调头:**
+
+在环岛或相似的地方 
+在分开的广场不能直接使用中间的道路调头 
+高速上不同平面调头 distinto nivel，禁止在隔离带执行操作 
+
+**禁止调头:**
+
+sitios sin visibilidad 没有视线的地方
+paseos de peatones y proximidades 人行道和它附近
+pasos a nivel 火车道口
+intersecciones y proximadades 十字路口和它附近
+intersecciones con vía ciclistas 与自行车相交叉的路口，没有例外 
+túneles, pasos inferiores 隧道，地下通道
+dónde prohibido adelantar 禁止超车的地方
+sentido único 单向道上
+ocasio peligro, impide otro usuarios 当造成危险，或者阻碍其他公路用户
+
+## Marcha atrás 倒车
+
+**Como norma general,prohibido da marcha atrás en todas vias. excepto complementaria de la maniobra. 一般情况下所有的路禁止掉头，除了是某些操作的补充条件。**
+
+1. autopista, autovía siemple prohibido 高速永远禁止 
+
+2. 可作为以下操作的辅助操作
+
+    Estacionamiento 长停
+    incorporación a lacirculación 加入交通 
+
+3. **Máxima15m** 最多 15 米，sin invadir un cruce 不能侵占道路的路口
+
+    例外: sin salida,necesario mínima,icluido invadir cruce. 除非是死胡同，没办法转弯没办法掉头，可以往后倒车倒需要的最少的距离，在安全的前提下也可以侵占路口。
+
+## Inmovilizaciones 停车
+
+### dentención 被迫停留：
+
+averia/ emergencia, 故障或紧急情况, luz de emergencia 紧急灯, luz de posición, si es de noche 如果晚上位置灯加紧急灯 y dispositivo de preseñalizacion de peligro 三角牌
+
+**做提示：**
+
+紧急灯，位置灯，三角牌，至少 50 米。可视度 100 米：
+
+A. 双向道一个行驶方向只有一条车道，前后各放一个三角牌。
+B. 单向道和双向道(同一个方向多于三条车道)，只在后面放一个三角牌 。
+
+**隧道:** 
+
+1) salir，apartadero o derecho borde 故障能离开就离开，不能离开找安全避让处或右边边缘.
+
+2) incendio/arder 火灾, apaga el motor 关掉马达, puerta abiert 门开着, llave puesta 钥匙放上.
+
+### voluntaria 自愿停车
+
+**parada 短停/ estacionamiento 长停:**
+
+A. **Urbana:**
+sentido único 单向道: izquierda o derecha de arcén/la calzada 左边或右边
+Doble sentido 双向道: derecho de arcén/la calzada , marcha 运行方向的右边
+
+B. **Carretera 市外普通公路:** 
+
+siempre derecha 永远右边
+fuera del la calzada y el arcén 在路肩(可通行)和路面的外面.
+
+C. **Autopista y autovía:**
+
+prohibido,solo area servicio y descaso 高速禁止长短停，**除了**服务区和休息区。
+
+**怎样停:**
+
+（1）como norma general,paralelo de borde,salvo otra indicación. 平行于道路边缘，除非有其他指示
+（2）Ascendente, subida, primera marcha 上坡，一档
+（3）Descendente, bajada, macha atrás 下坡，倒档
+（4）如果大于 3500kg，autobús，conjunto，apoyar al borde，sino llevar calzo
+
+**禁止长停和短停:**
+
+- Curvas y cambio de rasante visibilidad reducidad y proximidades 弯道，上下坡及附近视线不佳
+- Túneles,pasos inferioresy señal túnel 隧道，地下通道及其路标影响的地段
+- Pasos para peatones, paso a nivel, pasos para ciclistas 行人道，道口和自行车道 (它们附近可以)
+- Zona minusválido 残疾人区域
+- **Carril bús ,parade de bús 公车道，公车站**
+- Interurbanas genera peligro por falta visibilidad 市外道路上因为缺乏视线而造成危险
+- Intersecciones y sus proximidades, dificulta giro 十字路口和它附近如会阻碍其他车转弯
+- Sobre los raíles de tranvía 有轨电车的轨道上或附近阻碍通行
+- Oculta señal 会遮挡交通路标的地方
+- Autovía y autopista ,except zona habilitada 高速，除了有专门设置的地方
+
+**禁止长停:**
+
+- 限制长停没买票或超过了付费时间 estacionamiento limitado
+- zona carga y descarga 装卸货指示区在时间内不可以，时间外可以
+- señal privado 有正确指示的私人区
+- doble fila, sin conductor 双排停车没司机
+- paso de peatones, acera, paseo 人行道，保留给行人通行的地方
+- vehiculo y linea continua, inferior **3m** 车的侧面与路中间实线低于 3 米
+
+# TEMA 3
+
+**Distinto tipo señal: 不同种类路标间存在矛盾，按照优先顺序，要遵守更有优先的**
+
+## **Orden de prioridad 优先顺序**
+
+1. agentes y personas de obras 警察和施工人员
+2. señales circunstanciales y de balizamiento 临时路标和航标 
+3. semáforos 红绿灯
+4. señales verticales 垂直(竖立)路标
+5. marcas viales 路面路标
+
+ *****Mismo tipo: la más restrictiva 相同种类路标要遵守更有限制性的：
+
+1. 在十字路口，有两个指示牌(比如:两个红绿灯或者 两个垂直牌)
+2. **右转的**，遵守右边的指示牌 **左转的**，**直走的**，遵守左边的指示牌
+
+## Agente 警察的指挥
+
+**Brazo:** 
+
+A. Verticalmente, todos los usuarios, detener, **excepto** ya esta dentro de intesección 手臂垂直竖立所有用户(包括行人)停下,除了已经在路口里面的不用停。
+
+B. Horizontalmente, se corten por el brazo,delante y detrás, detener o trayectoria 水平摊开, 从手臂切断方向靠近的前后用户停下。
+
+**Silbato 吹哨,长走短停:** 
+
+A. largo, continuar marcha 长，走
+
+B. Corto, detener 短，停
+
+**从车上做的指示:**
+
+A. 
+
+bandera roja-- temporalmente cerrada 红旗，暂时关闭
+bandera amarilla-- peligro con precaución 黄旗，小心谨慎，附近有危险
+bandera verde-- nuevo abierta，no puedo adelantarle 绿旗，交通重新开放，不能超过警察, 2在警车上做的停车指示，必须停在警车右边，前边，不要制造危险。
+Derecha ,delante ,no genere riesgo/peligro. 路面标记--只限制行驶在这条路上的车辆， 路面上的限速限制的是**最大**速度。
+
+B.
+
+Derecha, delante, no genere riesgo/peligro. 在警车上做的停车指示，必须停在警车右边，前边，不要制造危险。
+路面标记--只限制行驶在这条路上的车辆， 路面上的限速限制的是**最大**速度。
+
+# TEMA 4
+
+LAS LUCES DEL VEHÍCULO 灯光的使用
+
+## **灯光的作用**
+
+1. ver看：
+
+luz de corto alcance/luz de cruce短灯
+luz de largo alcance/luz carretera长灯
+
+2. ser visto被看: 
+
+luz de posición 位置灯
+
+3. señalización 提示操作：
+
+intermitentes 方向指示灯
+luz de freno 刹车灯
+
+## **什么时候开灯**
+
+① 白天：
+
+1) motocicleta 
+2) túnel, paso inferior
+3) carril reversible, carril adicional, carril sentido contrario habitual(normal). 
+4) DRL, sino 日灯，如没有建议用短灯
+
+② 夜间或气候条件减少可见度:
+
+1) la puesta y salida de sol/atardecer y amanecer/noche y visibilidad reducida
+2) insuficiente iluminada光线不足: no leer matrícula 10米, no distinguir vehículo 50 米
+
+**怀疑时Duda:** 用短灯 luz de corta alcance y luz de posición
+
+**urbana市区/travesía过境公路:** luz corta, prohibido largo 开短灯，禁止使用长灯 
+
+**Obligatorio 必须用长灯:** 
+
+①**i**nterurbana **i**nsuficiente **i**luminada(3个i)
+②＞40km/h 
+③no deslumbrar不刺眼
+
+## 灯光的种类
+
+Luz intermitente=indicador de dirección方向指示灯 
+
+Luz de emergencia紧急灯: 4盏方向灯同时用
+
+①avería calzada y arcén 
+②servicio del emergencia 
+③velocidad anormalmente reducida
+
+Motocicleta opcional 摩托车可选择安装：
+
+Luz de freno 刹车灯 (红色): 2-3个，第3个刹车灯课选择性安装 opcional 
+Marcha atrás 倒车灯 (白色)
+Luz de posición 位置灯: 前面2个白色或黄色blanco o amarillo，后面2个红色rojo，指示它的出现presencia和宽度anchura. 在行驶的过程中不能单独使用位置灯，只有停车的时候可以单独使用。
+Luz de estacionamiento, travesías insuficiente iluminadas si estacionamos en linea停车灯，就是位置灯单独使用一边时: 在照明不足的过境公路上当车排停的时候使用
+Luz de gálibo边界灯: ancho＞2.1m，指示车辆的宽度超过2.1米
+Catadióptricos, al ser iluminados, reflejan luz por otro vehículo 折射灯，反射其他车辆的灯光发光
+Luz de matrícula, solo trasero obligado 车牌灯只强制后面
+Luz antiniebla delantera: opcional 前雾灯,选择安装
+
+Visibilidad reducida因气候条件可见度降低时
+
+Excepción: muchas curvas peligrosas+estrecha, ＜6.5m calzada, ＜3m carril+noche. 特殊情况，晚上视线不好，路窄低于6.5米，连续弯道危险，
+
+ Luz antiniebla trasera: obligatorio. desfavorable , adversa,intensa,fuerte,densa后雾灯: 强制性1-2个的气候条件极度恶劣时.小雨，小雪这种状况禁止使用后雾灯
 
 
 
-**Cambio de sentido** **调头**
+**4.Deslumbramiento,** sustituir/cambiar la luz larga por la corta**刺眼**长灯换短灯①curva, cambia primero, derecha o interior在弯道右边的第一个长灯换短灯
 
-必须执行:1elegir un lugar adecuado 挑选一个合适的地方
+②sea adelantado, cuando va a terminar 被超者超车要结束时长灯换短灯
 
-2da un solo giro 一个转弯，禁止使用倒车
-
-3sin impedir otros usuarios 不能阻碍其他用户通行
-
-4salir de la calzada por mi lado derecho, espera 如阻碍必须从右边出去并且等着 从那里执行操作
-
-设置道路上的调头:1在环岛或相似的地方 2在分开的广场不能直接使用中间的道路调头 3高速上不同平面调头 distinto nivel，禁止在隔离带执行操作 禁止调头:
-
-1sitios sin visibilidad 没有视线的地方
- 2paseos de peatones y proximidades 人行道和它附近
- 3pasos a nivel 火车道口
- 4intersecciones y proximadades 十字路口和它附近 5intersecciones con vía ciclistas 与自行车相交叉的路口，没有例外 6túneles ,pasos inferiores 隧道，地下通道
- 7dónde prohibido adelantar 禁止超车的地方
+③hay usuario en la vía 有任何公路使用者时
