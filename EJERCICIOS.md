@@ -143,3 +143,59 @@ Estos carriles sí se computan a efectos de utilización de la vía.
 La señal “carril bus”, indica la **prohibición de circular por ellos** a los conductores de vehículos que **no** sean de **transporte colectivo**. Cuando la señal lleve la palabra “**taxi**”, también les autoriza a utilizar este carril.
 
 Se delimitan con una **línea longitudinal continua sensiblemente más ancha**, salvo en pequeños tramos que es **discontinua** para permitir su **utilización al resto de vehículos,** con el fin de realizar alguna **maniobra** que **no** sea la de **parar**, **estacionar**, **cambiar el sentido** de la marcha o **adelantar**, dando siempre **preferencia** a los **autobuses** y, en su caso, a los **taxis**.
+
+La habilitación o reserva de uno o varios carriles para la circulación de vehículos VAO podrá ser **permanente o temporal**, con **horario fijo** o en **función del estado de la circulación**.
+
+Se consideran **vehículos VAO**, a los **automóviles** destinados **exclusivamente** al transporte de **personas**, cuya MMA no exceda de **3.500 kg** y estén **ocupados** por el **número** de **personas** que se fije para cada tramo.
+
+### carril VAO
+
+La **utilización** del carril VAO queda **limitada a:**
+
+- **Motocicletas, turismos y vehículos mixtos** adaptables que estén ocupados con las personas que se determine (si el conductor es **minusválido V-15,** puede ir **solo**).
+
+- **Autobuses** con más de 3.500 kg de MMA y **autobuses** **articulados,** si así se indica reglamentariamente, independientemente de los ocupantes.
+
+- Vehículos **prioritarios en servicio de urgencia** y equipos de mantenimiento de la vía.
+
+Tienen **prohibido** utilizarlo el resto de vehículos y conjuntos de vehículos, incluidos los **turismos con remolque, camiones, furgones,** así como los **peatones**, **ciclos, ciclomotores, etc**.
+
+	La habilitación de uno o varios carriles para la circulación VAO, ¿será siempre temporal y con horario fijo?
+
+No, podrá ser permanente y con un horario en función de las necesidades de la circulación.
+
+### carril de aceleración
+
+Los carriles de aceleración tienen la misión de **facilitar la incorporación** de los vehículos.
+
+Permiten al conductor **acelerar** para alcanzar la **velocidad adecuada al final del carril** y así **incorporarse con seguridad** a la calzada principal.
+
+### carril reversible
+
+Cuando en una vía de doble sentido de circulación existan **marcas dobles discontinuas delimitando un carril** por ambos lados, **indican que** éste **es reversible**, es decir, que en él la **circulación** puede estar regulada en **uno u otro sentido** con **semáforos de carril** (cuadrados) u otros medios.
+
+Los conductores que circulen por ellos **deberán** llevar encendida, **al menos**, la **luz de corto alcance** o de **cruce** tanto de día como de noche. Además, **no** podrán **invadir** el **carril** situado a su **izquierda**.
+
+La velocidad máxima de estos carriles no está limitada, por lo que se podrá circular a la **velocidad máxima de la vía**. **Tampoco existe limitación de uso** por ello lo pueden utilizar todos los conductores.
+
+Entre otras normas, si la circulación está regulada por semáforos de carril, obedecer sus indicaciones.
+
+	El carril reversible está abierto. ¿Puede atravesar la línea doble discontinua de la izquierda para adelantar?
+
+No.
+
+<img src="https://static.aeolservice.es/image/1192589?v=2" alt="img" style="zoom:25%;" />
+
+### carril adicional
+
+En las calzadas con **doble sentido** de circulación y **arcenes**, si la anchura de la plataforma lo permite, se podrá habilitar un **carril adicional** en uno de los sentidos mediante el uso de ambos arcenes y de las señales adecuadas. Con la habilitación de este carril se dispone de 2 carriles en un sentido y 1 en el otro.
+
+**Todos** los vehículos que utilicen esta vía **circularán**:
+
+- Con las marcas longitudinales entre las ruedas.
+
+- Llevando encendida, **al menos****,** la **luz** de corto alcance o **cruce****,** tanto de día como de noche.
+
+- A una velocidad **máxima** de **80 km/h** y a una **mínima** de **60 km/h**, **o inferiores** si estuviera establecido o específicamente señalizado.
+
+- **Sin atravesar** ni **alterar** la línea que forman los elementos de **balizamiento** (conos, balizas, etc.).

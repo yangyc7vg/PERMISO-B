@@ -538,6 +538,12 @@ B.
 Derecha, delante, no genere riesgo/peligro. 在警车上做的停车指示，必须停在警车右边，前边，不要制造危险。
 路面标记--只限制行驶在这条路上的车辆， 路面上的限速限制的是**最大**速度。
 
+<img src="image/Screenshot 2022-01-14 at 10.04.51.png" alt="Screenshot 2022-01-14 at 10.04.51" style="zoom:50%;" /><img src="image/Screenshot 2022-01-14 at 10.04.53.png" alt="Screenshot 2022-01-14 at 10.04.53" style="zoom:50%;" />
+
+<img src="image/Screenshot 2022-01-14 at 10.04.56.png" alt="Screenshot 2022-01-14 at 10.04.56" style="zoom:50%;" />
+
+<img src="image/Screenshot 2022-01-14 at 10.05.02-2151224.png" alt="Screenshot 2022-01-14 at 10.05.02" style="zoom:50%;" />
+
 # TEMA 4
 
 LAS LUCES DEL VEHÍCULO 灯光的使用
@@ -586,33 +592,119 @@ luz de freno 刹车灯
 
 Luz intermitente=indicador de dirección方向指示灯 
 
-Luz de emergencia紧急灯: 4盏方向灯同时用
+**Luz de emergencia紧急灯: 4盏方向灯同时用**
 
 ①avería calzada y arcén 
 ②servicio del emergencia 
 ③velocidad anormalmente reducida
 
-Motocicleta opcional 摩托车可选择安装：
+**Motocicleta opcional 摩托车可选择安装：**
 
-Luz de freno 刹车灯 (红色): 2-3个，第3个刹车灯课选择性安装 opcional 
-Marcha atrás 倒车灯 (白色)
-Luz de posición 位置灯: 前面2个白色或黄色blanco o amarillo，后面2个红色rojo，指示它的出现presencia和宽度anchura. 在行驶的过程中不能单独使用位置灯，只有停车的时候可以单独使用。
-Luz de estacionamiento, travesías insuficiente iluminadas si estacionamos en linea停车灯，就是位置灯单独使用一边时: 在照明不足的过境公路上当车排停的时候使用
-Luz de gálibo边界灯: ancho＞2.1m，指示车辆的宽度超过2.1米
-Catadióptricos, al ser iluminados, reflejan luz por otro vehículo 折射灯，反射其他车辆的灯光发光
-Luz de matrícula, solo trasero obligado 车牌灯只强制后面
-Luz antiniebla delantera: opcional 前雾灯,选择安装
+1. Luz de freno 刹车灯 (红色): 2-3个，第3个刹车灯课选择性安装 opcional 
+2. Marcha atrás 倒车灯 (白色)
+3. Luz de posición 位置灯: 前面2个白色或黄色blanco o amarillo，后面2个红色rojo，指示它的出现presencia和宽度anchura. 在行驶的过程中**不能**单独使用位置灯，只有停车的时候可以单独使用。
+4. Luz de estacionamiento, travesías insuficiente iluminadas si estacionamos en linea停车灯，就是位置灯单独使用一边时: 在照明不足的过境公路上当车排停的时候使用
+5. Luz de gálibo边界灯: ancho＞2.1m，指示车辆的宽度超过2.1米
+6. Catadióptricos, al ser iluminados, reflejan luz por otro vehículo 折射灯，反射其他车辆的灯光发光
+7. Luz de matrícula, solo trasero obligado 车牌灯只强制后面
+8. Luz antiniebla delantera: opcional 前雾灯,选择安装
+    - Visibilidad reducida因气候条件可见度降低时
+    - **Excepción**: muchas curvas peligrosas+estrecha, ＜6.5m calzada, ＜3m carril+noche. 特殊情况，晚上视线不好，路窄低于6.5米，连续弯道危险
+9. Luz antiniebla trasera: obligatorio. desfavorable , adversa,intensa,fuerte,densa后雾灯: 强制性1-2个的气候条件极度恶劣时.小雨，小雪这种状况禁止使用后雾灯
 
-Visibilidad reducida因气候条件可见度降低时
+## Deslumbramiento
 
-Excepción: muchas curvas peligrosas+estrecha, ＜6.5m calzada, ＜3m carril+noche. 特殊情况，晚上视线不好，路窄低于6.5米，连续弯道危险，
+sustituir/cambiar la luz larga por la corta **刺眼**长灯换短灯
 
- Luz antiniebla trasera: obligatorio. desfavorable , adversa,intensa,fuerte,densa后雾灯: 强制性1-2个的气候条件极度恶劣时.小雨，小雪这种状况禁止使用后雾灯
+① curva, cambia primero, derecha o interior在弯道右边的第一个长灯换短灯
 
+② sea adelantado, cuando va a terminar 被超者超车要结束时长灯换短灯
 
+③ hay usuario en la vía 有任何公路使用者时
 
-**4.Deslumbramiento,** sustituir/cambiar la luz larga por la corta**刺眼**长灯换短灯①curva, cambia primero, derecha o interior在弯道右边的第一个长灯换短灯
+# TEMA 5
 
-②sea adelantado, cuando va a terminar 被超者超车要结束时长灯换短灯
+## EL USO DEL VEHÍCULO车辆的使用
 
-③hay usuario en la vía 有任何公路使用者时
+**载人**
+
+- Turismo汽车: 
+
+① No supera máxima plaza,incluido conductor 包含司机不超过最高载人量
+
+② Cinturón de seguridad( todas vías, todas personas) 安全带 
+
+Salvo：
+
+（1）poblado y fuera: Certificado médico医生证明
+
+（2）Marcha atrás y estacionamiento长停倒车
+
+免除exentos urbana/poblado：  
+
+（1）taxi ,niños menos 1.35米 (asiento trasero)
+
+（2）Distribuidores de mercancías(corta distancia)
+
+（3）Servicio urgente (conductor y pasajero)
+
+ （4）Profesor de autoescuela
+
+③ niños: como norma general , menos de 12 años está prohibido delantera
+
+Salvo: 
+
+（1）dispositivos de retención infantil ，talla y peso
+
+（2）todos asientos ocupados por niños o asiento trasero no puede.
+
+（3）superior 135cm
+
+- Ciclomotor,motocicleta轻骑，摩托车:
+
+① casco: todas vías,todas personas 头盔:所有路所有人都要带
+
+Salvo: lleva cinturón ,certificado médico
+
+②Lleva pasajero ,mayor 12 años, posterior horcajadas, No entre conductor y manillar带乘客大于12岁，腿分开坐,不要坐在司机和方向盘之间
+
+Salvo除了7-12岁之间，父母或监护人tutor ,padres
+
+- Bici/ciclo自行车: 
+
+① pasajero hasta 7 años 乘客最大7岁
+
+② Asiento adicional 坐安全椅
+
+③ Conductor mayor de edad 司机是成年人
+
+④ 头盔Casco: urbana: ＞16 años—no obligado, ＜16 años—sí obligado
+
+⑤ fuera/interurbana, obligado todos，excepto ascendente, demasiado calor市外所有人必须带头盔，除了大上坡或者特别的热。
+
+**运货**
+
+- No comprometa la estabilidad de vehículo. 不能危害车辆的平衡
+
+- No deposita y oculta。不散放在路面上，不能遮盖任何东西
+
+- General : 
+    - Altura máxima 4m 高度最高4米
+    - Anchura máxima 2.55m宽度最宽2.55米
+    - Longitud máxima 12m 长度最长12米
+
+| 车型 位置                 | 摩托车 motocicleta | 轿车 turismo                                       | 卡车 camión        |             |
+| ------------------------- | ------------------ | -------------------------------------------------- | ------------------ | ----------- |
+|                           |                    |                                                    | 长度小于等于5米    | 长度大于5米 |
+| 前adelante                | NO                 | NO                                                 | 三分之一 Un tercio | 2m          |
+| 两侧Lateral Dos lados     | 0.5m por eje       | NO                                                 | 0.4m               | 0.4m        |
+| 后Posterior               | 0.25m              | 可折叠10%，10%divisible 不可折叠15% 15%indivisible | 三分之一 Un tercio | 3m          |
+| 红白板/位置灯señalización | NO                 | sí                                                 | sí                 | sí          |
+
+货车前后货物超出范围，后面永远都要放红白板，视线不好的情况下加前面白灯后面红灯。
+
+* vehículo menos un metro con remolque车宽没有超过一米的车带拖车 :
+
+①El día,con visibilidad suficiente，白天，视线好
+②no supera 50％，推车重量不能超过前面拖车的50％
+③ nunca persona 永远不能带人
