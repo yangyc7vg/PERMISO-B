@@ -39,7 +39,7 @@ Un vehículo destinado al alquiler sin conductor que se dedica a un uso concaten
 
 **solicitar** **su servicio mediante el empleo de aplicaciones móviles**
 
-# EL USO DE LA VÍA
+# EL USO DE LAS VÍAS
 
 ## LOS VEHÍCULOS EN LA VÍA
 
@@ -525,7 +525,7 @@ Los conductores tienen prioridad de paso para sus vehículos, respecto a los pea
 	Para incorporarse a la vía principal, un turismo tiene que atravesar un carril bici debidamente señalizado; ¿deberá ceder el paso a los ciclistas que circulan por el mismo?
 **Sí; los ciclistas tienen prioridad de paso.**
 
-<img src="../just-rands/illustrations /download.png" alt="download" style="zoom:25%;" />
+<img src="image/download-2936531.png" alt="download" style="zoom:25%;" />
 
 ### animales
 
@@ -537,4 +537,30 @@ Los conductores tienen prioridad de paso para sus vehículos, respecto de los an
 
 *Para que las cañadas o pasos de ganado estén bien señalizados, deberán tener la señal P-23 "Paso de animales domésticos" y un panel complementario colocado debajo de la señal con la inscripción "Cañada". Dicha señalización debe estar complementada con las correspondientes señales de limitación de velocidad.*
 
-<img src="../just-rands/illustrations /download (1).png" alt="download (1)" style="zoom:25%;" />
+<img src="image/download (1)-2936515.png" alt="download (1)" style="zoom:25%;" />
+
+
+
+### puentes
+
+El orden de **preferencia de paso** por puentes u obras de paso cuya anchura no permita el cruce de vehículos, se realizará conforme a la **señalización** que lo regule. 
+
+En el caso de que en uno de los extremos del estrechamiento estuviera colocada la señal de prioridad en sentido contrario o la de ceda el paso, el que llegue por ese extremo **tendrá que retroceder** para dejar pasar al otro **en el caso de que no puedan cruzarse.**
+
+En ausencia de señalización, el **orden de preferencia de paso** entre los distintos vehículos se realizará de acuerdo con el orden establecido para los **estrechamientos**.
+
+Los **vehículos** que **necesitan autorización especial** para circular, **no** podrán **cruzarse** en los **puentes si el ancho de la calzada es inferior a 6 metros,** de suerte que para cada vehículo pueda contarse con un ancho de vía no inferior a 3 metros. En caso de encuentro o cruce entre dichos vehículos el orden de preferencia se establecerá de acuerdo con lo indicado anteriormente.
+
+### pendiente
+
+Se entiende por **tramos** de gran **pendiente** los que tienen una **inclinación mínima del 7%**.
+
+En los estrechamientos situados en tramos de gran pendiente, tendrá **preferencia de paso** el vehículo que **circule en sentido ascendente**, **salvo que** este pudiera llegar antes a un apartadero establecido al efecto.
+
+En caso de duda sobre la inclinación de la pendiente o la distancia al apartadero, se aplicarán las normas indicadas para los estrechamientos de la calzada.
+
+<img src="image/download-2936886.png" alt="download" style="zoom:25%;" />
+
+	Como norma general, en un tramo de vía estrecho de gran pendiente debe ceder el paso...
+**el vehículo que baja.**
+
