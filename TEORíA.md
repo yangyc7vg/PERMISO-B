@@ -1,8 +1,6 @@
-# **TEMA 1**
+# VehÍculos
 
-**A**: VehÍculos de motor 带发动机车辆 Automóviles 机动车
-
-**>50 cc 气缸容 量，>45km/h 速 度/迈**
+**VehÍculos de motor 带发动机车辆 Automóviles 机动车: >50 cc 气缸容 量，>45km/h 速 度/迈**:
 
 Turismo 小汽车
 
@@ -22,9 +20,9 @@ Autocaravanas 房车
 
 Motocicleta 摩托车 
 
-**B**: Vehiculos no considerados(sin) de motor 非机动车 不视为发动机车辆
 
-**≤50cc，≤45km/h** 
+
+**Vehiculos no considerados(sin) de motor 非机动车 不视为发动机车辆: ≤50cc，≤45km/h**: 
 
 VehÍculos de Tracción Animal : 动物牵引车辆
 
@@ -38,7 +36,9 @@ Vehiculos para Personas Movilidad Reducida : 残疾人车辆
 
 Vehículo de MOvilidad Personal (VMP)
 
-**C:** Definiciones relativas a la masa del vehículo
+
+
+**Definiciones relativas a la masa del vehículo:**
 
 Tara en vació: sin personas ni carga
 
@@ -52,19 +52,15 @@ MMA
 
 Masa máxima autorizada del conjunto
 
-## **VÍAS** **道路的使用**
+
+
+# VÍAS
 
 ![Uso de las vías Públicas. Tipos de carriles](https://vialtest.com/static/images/manual/B/partes-de-la-via.jpg)
 
-路肩
+路肩	路面	车道	隔离带
 
-路面
-
-车道
-
-隔离带
-
-### Normas de circulación
+**Normas de circulación**:
 
 1. Dentro o fuera de poblado，por la **derecha,** Los **restos** carriles cuando la circunstancia **de tráfico** o **de la vía** lo aconseja y no entorpecer la marcha(**ocupado**). Por la **calzada** y no por el **arcén**, **salvo** razones de emergencia. 一般行驶规则永远靠右边车道行驶，在交通情况或公路条件允许又不挡着别人的情况下(都占满了) 可以使用其他的车道。不可以进入路肩。
 
@@ -74,7 +70,9 @@ Masa máxima autorizada del conjunto
 
 4. Calzada con **dos sentido** y tres carriles **delimitado**, carril **central** : **adelantar** y **gira** a la **izquierda** **道路有两个方向三条车道，车道用线划分好的情况下，中间车道**是专门用于**左转**和**超车**用的。
 
-### Otras normas de circulación
+
+
+**Otras normas de circulación**:
 
 1. Todos los automoviles y los vehiculos especiales con MMA>3500kg, **sólo** por la calzada. 所有大于 3500kg的机动车的和专用车必须行驶在车道的上。
 
@@ -82,7 +80,9 @@ Masa máxima autorizada del conjunto
 
 3. Si no hay marcas vials ,circula por la derecha. 如地面没有路标划分好，还是靠右行驶。
 
-## AUTOPISTA Y AUTOVÍA **一级和二级高速**
+
+
+**AUTOPISTA Y AUTOVÍA**:
 
 1. **Autovía o autovista dentro de poblado** **市内高速交规一样**: Dentro o fuera de poblado，por la **derecha,** Los **restos** carriles cuando la circunstancia **de tráfico** o **de la vía** lo aconseja y no entorpecer la marcha(**ocupado**). 不管是在城内或者城外，永远是行驶在右边，当交通情况公路 条件允许又不挡着别人(都占满了)的情况下可以使用其他的车道。
 
@@ -97,7 +97,9 @@ Masa máxima autorizada del conjunto
 6. **No** permite hace autostop. 不允许在高速上搭车。
 7. **No** permite Parar,estacionr,marcha atrás, **salvo**: área de descanso o área de servicio. 不能在高速短停，长停，倒车。除了指定的区域休息区或服务区。
 
-## ARCÉN 郊外路肩 (高速不可以)
+
+
+**ARCÉN 郊外路肩:**
 
 Circular por arcén derecho si es **transitable** y **suficiente** ,sino circular parte imprescindible de la calzada. 在郊外，如果道路右边的路肩是可通行且足够宽行驶在路肩上，不然就不允许。
 
@@ -111,15 +113,17 @@ Circular por arcén derecho si es **transitable** y **suficiente** ,sino circul
 
 3. 行驶在路肩上的车超车: No superar 15 segundos ni 200 m，并排行 驶不可以超过 15 秒，200 米。
 
-##  **CARRIL ESPECIAL** **特殊车道**
+
+
+**CARRIL ESPECIAL:**
 
 1. **carril bús** 公交车道: linea **discontinua**, puede hacer alguna maniobra ,no sea parar ,estacionar, cambiar sentido y adelantar. Si es linea **continua** **NO.** 当是虚线时，非公交车可以实行一些操作但是不能是短停，长停掉头和超车。当是实线时，非公交车完全禁止使用。
-
 2. **carril aceleración** 加速道: 在开始 al pincipio 时确定无危险，以合适速度加入 
-
 3. **carril deceleración**减速道: 提前进入antelación，disminuir la velocidad y salir de autopista 在减速道里面减速和离开高速。
 
-### 其他特殊车道
+
+
+**其他特殊车道:**
 
 |      |**可逆向行驶车道**Carril Reversible| **正常反方向车道** Sentido contrario Habitual(normal) | **附加车道**Carril adicional (cono) | **高载车道** **Carril VAO** (vehiculo alto ocupado >dos personas) |
 | ---- | ------------------------------------------------------------ | ---- | ---- | ---- |
@@ -128,7 +132,9 @@ Circular por arcén derecho si es **transitable** y **suficiente** ,sino circul
 | **车辆**Vehiculo | **机动车**automoviles | **Obra**: todos ,salvo prohibición la señal **Fluidez**: turismo sin remolque y motocicleta | **todos** | **Turismo, Motocicleta, Autobús, Mixto** |
 | **注意**Otra precuacion | **方形红绿灯**Semáforo Cuadrada 强制遵守正常交通规则 |      |      | **Sólo conductor** ① Señal minusválido V-15 残疾人标志 ② Servicio urgencia 紧急服务  ③ Bús MMA>3500kg 超过 3500kg 公交车  ④ Etiqueta V-25 cero emisiones 环保标志 |
 
-## DISTANCIA DE SEGURIDAD 安全距离
+
+
+## DISTANCIA DE SEGURIDAD
 
 1. Permita **detenerse** en caso de frenado brusco, **sin colisionar**. 在急刹车的情况下，把车停下来，不撞到前面的车 (追尾)
 
@@ -137,6 +143,8 @@ Circular por arcén derecho si es **transitable** y **suficiente** ,sino circul
 ③ Dónde está prohibido adelantar 禁止超车的地方
 ④ Saturado no permitir adelantar 塞车不能超车。
 
+
+
 2. Permita **detenerse** en caso de frenado brusco, **sin colisionar**+permitir al que siga detrás **adelantar** con seguridad. 在郊外，保持在急刹车的情况下不撞到，另外让其他车安全超车的距离。
 
 ① fuera de poblado 市外。
@@ -144,32 +152,40 @@ Circular por arcén derecho si es **transitable** y **suficiente** ,sino circul
 ③ no prohibido adelantar 不禁止超车。
 ④ no tiene intencion de adelantar 没有意图超车。
 
+
+
 3. 市区的安全距离至少 2 秒的间隔，市外至少 3 秒:
 
 （1）> 3500kg mercancía al menos 至少 50m
 （2）> 10m conjunto al menos 保持至少 50
+
+
 
 4. Túnel: 
 
 （1）más de un carril para mismo sentido 同一方向多于一条车道,不超车的情况下，和前车保持至少 100 米，4 秒的安全距离
 （2）>3500kg camión, >10 metros conjunto : 150 米 6 秒
 
-### DISTANCIA LATERAL 侧面安全距离
+
+
+**DISTANCIA LATERAL:**
 
 1. Poblado 市区: **Velocidad**, **anchura** y caracteristicas de la **calzada** propolcinar 跟所有车辆只要保持一段安全比例距离(速度，宽度和路面)
-
 2. Carretera convencional 郊外: vehículo dos ruedas(ciclomotor, bicicleta motocicleta), peatones, animales; vehículo de tracción animal 弱势群体 Al adelantar a los vehiculos de 2 ruedas en fuera: mínimo/al menos **1.5m** con seguridad o sin peligro. 郊外超两轮车这些弱势群体至少保持 1.5 米侧面距离，并侵占到旁边车道的部分或全部路面。(以上情况可以压实线超车，**但是超摩托车不可以压实线**。)
-
 3. Al cruzar 擦肩而过的时候，distancia de seguridad 安全距离。
 
-### **PEATÓN , ANIMAL Y BICICLETA**
+
+
+**PEATÓN , ANIMAL Y BICICLETA**:
 
 1. Zona peatonal, acera, refugio, isleta, pase. Si no existan, el arcén, la calzada. 一般情况下，行人使用行人区域。如果没有(不存在)走路肩上，没有路肩使用路面。
 
 ① Urbana: izquierda o derecha 市区，走对目的地最适合的。
 ② Fuera, carretera, travesías,郊外: izquierda, por razón de seguidad **derecha** 左边更安全的条件下，可以走左边。
 
-***Debe derecha 必须右边**: 
+
+
+**Debe derecha 必须右边:** 
 
 ① empujar un ciclo，carros. 推着自行车，手推车的用户。
 ② silla de rueda 残疾人的轮椅车。
@@ -177,7 +193,9 @@ Circular por arcén derecho si es **transitable** y **suficiente** ,sino circul
 
 2. Animal Proridad: cañada, vía pecuario, si no, por borde derecha de la vía. Nunca por autopista ni autovía. 动物使用畜牧路如果没有，路右边缘，永远不要超过行驶车道一半。永远都不能上高速。
 
-## LA VELOCIDAD **速度**
+
+
+# LA VELOCIDAD 
 
 1. velocidad máxima 最高速度， seguridad y fluidez 完善道路的安全和流畅
 
@@ -210,7 +228,9 @@ Cuadriciclos de motor o **Cuadriciclos NO ligero** 最高速度 70km/h
 
 Vehiculo especial 通常情况下最高速度 general 40km/h，con remolque o carece luz de freno 带拖车或缺少刹车灯光装置最高速度 25km/h。
 
-## PRIORIDAD DE PASO **优先权**
+
+
+# PRIORIDAD DE PASO 
 
 1. Intersecciones o cruce con señal，obedecerlas 路口有路标，遵守路标。
 
@@ -247,7 +267,9 @@ Vehiculo especial 通常情况下最高速度 general 40km/h，con remolque o ca
 （2）Debenrespetartodaslasnormasyseñales. 必须要遵守所有的时间规则和路标。 
 （3）Facilitar el paso en la medida de lo posible. 其他司机尽可能方便。 
 
-### ESTRECHAMIENTO 窄道
+
+
+**ESTRECHAMIENTO:**
 
 1. 如有交警；施工人员；路标必须服从。Si hay señales obedecerles 如果有路标必须服从。 
 2. sin señales:
@@ -263,9 +285,9 @@ Vehiculo especial 通常情况下最高速度 general 40km/h，con remolque o ca
 
 Orden: 专用车>双节拖车>动物牵引车>私家车+拖车>公交车>卡车>小汽车>两轮车
 
-# TEMA 2
 
-## LAS MANIOBRAS 操作
+
+# LAS MANIOBRAS 
 
 **Normas generales sin prioridad**
 
@@ -285,7 +307,9 @@ Orden: 专用车>双节拖车>动物牵引车>私家车+拖车>公交车>卡车>
 
 (1) Sin peligro,con segurida. 实行操作，在确保没有危险的情况下再做操作。
 
-## Señalización
+
+
+# Señalización
 
 1. Como normal general o preferentemente luminosa 一般规定或最好使用灯光
 
@@ -312,9 +336,9 @@ Evitar un accidente 避免交通事故
 Servicio urgente 紧急服务
 Fuera de poblado adelantar 郊外超车
 
-## Incorporación a la circulación 加入运行
 
-**遵循 O.S.M 顺序**
+
+**Incorporación a la circulación: 遵循 O.S.M 顺序**
 
 Incorporar por carril de aceleración, mientras tanto, cede el paso. 从加速道加入交通没有优先，要让道。
 
@@ -322,11 +346,15 @@ Facilitar la incorporación en la medida de lo posible. 可能不妨碍他人�
 
 从私人道路加入(ceder el paso)，主道的车优先(facilitar)
 
-## Desplazamiento lateral 侧面移动
 
-在换道之前要遵守行驶在这条车道上的车辆的优先权，要提前指示 antelación 并逐渐进行移动 forma progresiva。主道上的车辆有优先权 prioridad。Cambio 的没有优先。
 
-## Adelantamiento 超车
+**Desplazamiento lateral:**
+
+在换道之前要遵守行驶在这条车道上的车辆的优先权，要提前指示 antelación 并逐渐进行移动 forma progresiva。主道上的车辆有优先权 prioridad。Cambio 的没有优先。ç
+
+
+
+**Adelantamiento:**
 
 1. **No se considera adelantamiento:**
 
@@ -334,6 +362,8 @@ Saturación, tráfico densa. 交通堵塞。
 Carril de aceleración, deceleración o bús. 加速道，减速道和公交车道。
 Los ciclistas, en grupo. 自行车组。
 Sobrepasar a un vehículo inmovilizado (rebasar). 越过一辆停着不动的车。
+
+
 
 2. **Como norma general, adelantar por la izquierda 一般交规超车从左边超** 
 
@@ -343,6 +373,8 @@ Sobrepasar a un vehículo inmovilizado (rebasar). 越过一辆停着不动的�
 ② 在双向道中间有轨电车 tranvía 行驶。
 ③ Urbana, más de un carril, delimitado. 市内，行驶方向有多于一条车道，有线条划分开 (在市内的高速必须从左边超车)。
 
+
+
 3. **Va a adelantar 超车者的义务: O.S.M.**
 
 ① sin peligro, con seguridad,velocidad adecuada
@@ -350,13 +382,17 @@ Sobrepasar a un vehículo inmovilizado (rebasar). 越过一辆停着不动的�
 ③ encendido la luz ,tiene la preferencia,谁先开灯谁有优先
 ④ sino seguir adelantamiento , hay que regresar al carril derecho 如不继续超车，返回右车道
 
+
+
 4. **Ser adelantado 被超者的义务:**
 
 facilitar, ceñirse (apartarse,acercarse, al derecho,sin invadir arcén. 强制靠边给予方便(一般情况下不可以侵占路肩)。
 
 如被超车辆是大车有义务提醒超车者安全超车，做手势或灯光提醒。 mover brazo de atrás hacia delante, intermitentes derecho.
 
-### **禁止超车:**
+
+
+**禁止超车:**
 
 Curva y cambio de rasante, sin visibilidad, **excepto** más de un carril y delimitado, sin invadir sentido contrario. 没有视线的弯道和上下坡,除了多于一条车 道用线划分好不侵占反方向。
 
@@ -370,7 +406,9 @@ Interseccion o cruce y su proximidad 十字路口和它附近，**例外**1) 从
 
 Túnel y pasos inferiores, **excepto** más de un carril para cada sentido. 隧道地下 通道,除了多于一条车道不侵占反方向
 
-## Cambio de dirección 转弯
+
+
+**Cambio de dirección**:
 
 Gira a la derecha ,ceñirse lo más borde derecho posible。 右转，尽可能靠近右边。
 
@@ -386,7 +424,9 @@ tres carriles y dos sentido para gira a la izquierdad y adelanta，carril centra
 
 \* fuera de poblado，ciclomotoderecha，fuera de calzada 在郊外，行驶在路肩上的车表示左转，行驶在右边，在路面外边.
 
-## Cambio de sentido 调头
+
+
+**Cambio de sentido:**
 
 **必须执行:**
 
@@ -413,7 +453,9 @@ dónde prohibido adelantar 禁止超车的地方
 sentido único 单向道上
 ocasio peligro, impide otro usuarios 当造成危险，或者阻碍其他公路用户
 
-## Marcha atrás 倒车
+
+
+**Marcha atrás:**
 
 **Como norma general,prohibido da marcha atrás en todas vias. excepto complementaria de la maniobra. 一般情况下所有的路禁止掉头，除了是某些操作的补充条件。**
 
@@ -427,10 +469,12 @@ ocasio peligro, impide otro usuarios 当造成危险，或者阻碍其他公路�
 3. **Máxima15m** 最多 15 米，sin invadir un cruce 不能侵占道路的路口
 
     例外: sin salida,necesario mínima,icluido invadir cruce. 除非是死胡同，没办法转弯没办法掉头，可以往后倒车倒需要的最少的距离，在安全的前提下也可以侵占路口。
+    
+    
 
-## Inmovilizaciones 停车
+**Inmovilizaciones:**
 
-### dentención 被迫停留：
+1. **dentención 被迫停留：**
 
 averia/ emergencia, 故障或紧急情况, luz de emergencia 紧急灯, luz de posición, si es de noche 如果晚上位置灯加紧急灯 y dispositivo de preseñalizacion de peligro 三角牌
 
@@ -443,11 +487,12 @@ B. 单向道和双向道(同一个方向多于三条车道)，只在后面放一
 
 **隧道:** 
 
-1) salir，apartadero o derecho borde 故障能离开就离开，不能离开找安全避让处或右边边缘.
+- salir，apartadero o derecho borde 故障能离开就离开，不能离开找安全避让处或右边边缘.
+- incendio/arder 火灾, apaga el motor 关掉马达, puerta abiert 门开着, llave puesta 钥匙放上.
 
-2) incendio/arder 火灾, apaga el motor 关掉马达, puerta abiert 门开着, llave puesta 钥匙放上.
 
-### voluntaria 自愿停车
+
+2. **voluntaria 自愿停车**:
 
 **parada 短停/ estacionamiento 长停:**
 
@@ -493,11 +538,11 @@ prohibido,solo area servicio y descaso 高速禁止长短停，**除了**服务�
 - paso de peatones, acera, paseo 人行道，保留给行人通行的地方
 - vehiculo y linea continua, inferior **3m** 车的侧面与路中间实线低于 3 米
 
-# TEMA 3
 
-**Distinto tipo señal: 不同种类路标间存在矛盾，按照优先顺序，要遵守更有优先的**
 
-## **Orden de prioridad 优先顺序**
+# Distinto tipo señal
+
+**Orden de prioridad:**
 
 1. agentes y personas de obras 警察和施工人员
 2. señales circunstanciales y de balizamiento 临时路标和航标 
@@ -510,7 +555,9 @@ prohibido,solo area servicio y descaso 高速禁止长短停，**除了**服务�
 1. 在十字路口，有两个指示牌(比如:两个红绿灯或者 两个垂直牌)
 2. **右转的**，遵守右边的指示牌 **左转的**，**直走的**，遵守左边的指示牌
 
-## Agente 警察的指挥
+
+
+**Agente 警察的指挥:**
 
 **Brazo:** 
 
@@ -544,11 +591,9 @@ Derecha, delante, no genere riesgo/peligro. 在警车上做的停车指示，必
 
 <img src="image/Screenshot 2022-01-14 at 10.05.02-2151224.png" alt="Screenshot 2022-01-14 at 10.05.02" style="zoom:50%;" />
 
-# TEMA 4
+# LAS LUCES DEL VEHÍCULO
 
-LAS LUCES DEL VEHÍCULO 灯光的使用
-
-## **灯光的作用**
+**灯光的作用:**
 
 1. ver看：
 
@@ -564,7 +609,9 @@ luz de posición 位置灯
 intermitentes 方向指示灯
 luz de freno 刹车灯
 
-## **什么时候开灯**
+
+
+**什么时候开灯:**
 
 ① 白天：
 
@@ -588,7 +635,9 @@ luz de freno 刹车灯
 ②＞40km/h 
 ③no deslumbrar不刺眼
 
-## 灯光的种类
+
+
+**灯光的种类:**
 
 Luz intermitente=indicador de dirección方向指示灯 
 
@@ -612,7 +661,9 @@ Luz intermitente=indicador de dirección方向指示灯
     - **Excepción**: muchas curvas peligrosas+estrecha, ＜6.5m calzada, ＜3m carril+noche. 特殊情况，晚上视线不好，路窄低于6.5米，连续弯道危险
 9. Luz antiniebla trasera: obligatorio. desfavorable , adversa,intensa,fuerte,densa后雾灯: 强制性1-2个的气候条件极度恶劣时.小雨，小雪这种状况禁止使用后雾灯
 
-## Deslumbramiento
+
+
+**Deslumbramiento**:
 
 sustituir/cambiar la luz larga por la corta **刺眼**长灯换短灯
 
@@ -620,27 +671,25 @@ sustituir/cambiar la luz larga por la corta **刺眼**长灯换短灯
 
 ② sea adelantado, cuando va a terminar 被超者超车要结束时长灯换短灯
 
-③ hay usuario en la vía 有任何公路使用者时
 
-# TEMA 5
 
 ## EL USO DEL VEHÍCULO车辆的使用
 
-**载人**
+**载人**:
 
-- Turismo汽车: 
+- **Turismo汽车:** 
 
 ① No supera máxima plaza,incluido conductor 包含司机不超过最高载人量
 
 ② Cinturón de seguridad( todas vías, todas personas) 安全带 
 
-Salvo：
+​		Salvo：
 
 （1）poblado y fuera: Certificado médico医生证明
 
 （2）Marcha atrás y estacionamiento长停倒车
 
-免除exentos urbana/poblado：  
+​		免除exentos urbana/poblado：  
 
 （1）taxi ,niños menos 1.35米 (asiento trasero)
 
@@ -648,11 +697,11 @@ Salvo：
 
 （3）Servicio urgente (conductor y pasajero)
 
- （4）Profesor de autoescuela
+（4）Profesor de autoescuela
 
 ③ niños: como norma general , menos de 12 años está prohibido delantera
 
-Salvo: 
+​		Salvo: 
 
 （1）dispositivos de retención infantil ，talla y peso
 
@@ -660,17 +709,23 @@ Salvo:
 
 （3）superior 135cm
 
-- Ciclomotor,motocicleta轻骑，摩托车:
+- **Ciclomotor,motocicleta轻骑，摩托车:**
 
 ① casco: todas vías,todas personas 头盔:所有路所有人都要带
 
-Salvo: lleva cinturón ,certificado médico
+​		Salvo: 
 
-②Lleva pasajero ,mayor 12 años, posterior horcajadas, No entre conductor y manillar带乘客大于12岁，腿分开坐,不要坐在司机和方向盘之间
+lleva cinturón ,certificado médico
 
-Salvo除了7-12岁之间，父母或监护人tutor ,padres
+② Lleva pasajero ,mayor 12 años, posterior horcajadas, No entre conductor y manillar带乘客大于12岁，腿分开坐,不要坐在司机和方向盘之间
 
-- Bici/ciclo自行车: 
+​		Salvo:
+
+（1）除了7-12岁之间，父母或监护人tutor ,padres
+
+
+
+- **Bici/ciclo自行车:** 
 
 ① pasajero hasta 7 años 乘客最大7岁
 
@@ -682,7 +737,9 @@ Salvo除了7-12岁之间，父母或监护人tutor ,padres
 
 ⑤ fuera/interurbana, obligado todos，excepto ascendente, demasiado calor市外所有人必须带头盔，除了大上坡或者特别的热。
 
-**运货**
+
+
+**运货**:
 
 - No comprometa la estabilidad de vehículo. 不能危害车辆的平衡
 
@@ -692,6 +749,8 @@ Salvo除了7-12岁之间，父母或监护人tutor ,padres
     - Altura máxima 4m 高度最高4米
     - Anchura máxima 2.55m宽度最宽2.55米
     - Longitud máxima 12m 长度最长12米
+    
+    
 
 | 车型 位置                 | 摩托车 motocicleta | 轿车 turismo                                       | 卡车 camión        |             |
 | ------------------------- | ------------------ | -------------------------------------------------- | ------------------ | ----------- |
@@ -703,7 +762,7 @@ Salvo除了7-12岁之间，父母或监护人tutor ,padres
 
 货车前后货物超出范围，后面永远都要放红白板，视线不好的情况下加前面白灯后面红灯。
 
-* vehículo menos un metro con remolque车宽没有超过一米的车带拖车 :
+* vehículo menos un metro con remolque:
 
 ①El día,con visibilidad suficiente，白天，视线好
 ②no supera 50％，推车重量不能超过前面拖车的50％
